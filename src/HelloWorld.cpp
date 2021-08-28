@@ -2,7 +2,7 @@
 // Name        : HelloWorld.cpp
 // Author      : Justin 
 // Version     :
-// Copyright   : Your copyright notice
+// Copyright   : GNU General Public License v3.0
 // Description : Hello World in C++, Ansi-style
 //============================================================================
 
