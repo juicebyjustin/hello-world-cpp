@@ -9,7 +9,7 @@
 #include <iostream>
 #include "sum.h"
 #include "print.cpp"
-#include "my_class.h"
+#include "my_class/my_class.h"
 
 using namespace N;
 using namespace std;
